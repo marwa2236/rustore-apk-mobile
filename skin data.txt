@@ -4,10 +4,10 @@
      
     
         
-      "banner_type":"unity",
-      "inter_type":"unity",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
       "native_type":"yandex",
-      "reward_type":"unity",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"1896f3d85",
